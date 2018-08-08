@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<job maxFilesPerProcess="100" simulateSubmission="false" >
+	<command>
+		<!-- cons -->
+        root4star -l -q -b zeptogram.C\(-1,\"$FILELIST\",\"/star/u/djs232/scratch/zepto/root/zepto/$JOBID.root\"\)
+	</command>
+	<SandBox installer="ZIP">
+		<Package>
+            <File>file:./zeptogram.C</File>
+			<File>file:./StRoot</File>
+            <File>file:./.sl73_gcc485</File>
+		</Package>		
+	</SandBox>
+	<!--<input URL="file:/star/data20/reco/production_pAu200_2015/ReversedFullField/P16id.SL18b/2015/124/16124017/st_physics_16124017_raw_2000011.picoDst.root"/>
+	<input URL="file:/star/data20/reco/production_pAu200_2015/ReversedFullField/P16id.SL18b/2015/124/16124017/st_physics_16124017_raw_1000011.picoDst.root"/>
+	<input URL="file:/star/u/tongliu/AnalyzePico/Data/st_physics_16124018_raw_5000001.picoDst.root"/>
+	<input URL="file:/star/u/tongliu/AnalyzePico/Data/st_physics_16124018_raw_5000012.picoDst.root"/>
+	<input URL="file:/star/u/tongliu/AnalyzePico/Data/st_physics_16124018_raw_5000013.picoDst.root"/>
+	<input URL="file:/star/u/tongliu/AnalyzePico/Data/st_physics_16124018_raw_5000015.picoDst.root"/>
+	<input URL="catalog:star.bnl.gov?filetype=daq_reco_picoDst,trgsetupname=production_pAu200_2015,sanity=1,storage=NFS" nFiles="10"/>-->
+	
+	<Generator>
+        <Location>./input/zepto/Location</Location>
+        <ScriptLocation>./input/zepto/ScriptLocation</ScriptLocation>
+        <ListLocation>./input/zepto/ListLocation</ListLocation>
+	</Generator>
+
+    <input URL="filelist:/star/u/djs232/scratch/zepto/pico_pAu200_2015_all.list" />
+
+    <stdout URL="file:./out/zepto/$JOBID" />	
+    <stderr URL="file:./err/zepto/$JOBID" />
+    <!-- <output fromScratch="*.root" toURL="/star/u/djs232/scratch/root/zepto" /> -->
+</job>

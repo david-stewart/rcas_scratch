@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<job fileListSyntax="xrootd" maxEvents="100000" softLimits="true" simulateSubmission="false" >
+
+<command> 
+    starpro
+    <!-- cons -->
+    echo "Before root4star"
+    root4star -q -b run.C\(0,$INPUTFILECOUNT,\"$FILELIST\",\"$SCRATCH\",\"$JOBID\",&triggerid;,&TT_min;&AllTOF;\) 
+    echo "After root4star"
+</command> 
+
+<SandBox installer="ZIP">
+        <Package>
+            <File>file:./run.C</File>
+	 	    <File>file:./StRoot</File>
+            <File>file:./.sl73_gcc485</File>
+        </Package>
+</SandBox>
+
+<Generator>
+    <Location>       &Location;       </Location>
+    <ScriptLocation> &ScriptLocation; </ScriptLocation>
+    <ListLocation>   &ListLocation;   </ListLocation>
+    <!-- <ListLocation>   &gen_list;   </ListLocation> -->
+</Generator>
+
+<input URL="catalog:star.bnl.gov?filetype=daq_reco_MuDst,events!=0,production=P17id,filename~st_ssdmb,collision=pAu200,runnumber[]16127021-16147025,year=2015,available=1,storage!=hpss,sanity=1" nFiles="&nfiles;" />
+<!-- <input URL="catalog:star.bnl.gov?filetype=daq_reco_MuDst,events!=0,production=P17id,collision=pAu200,filename~st_ssdmb,year=2015,available=1,storage!=hpss,sanity-1" nFiles="&nfiles;" /> -->
+<!-- <input URL="catalog:star.bnl.gov?filetype=daq_reco_MuDst,events!=0,production=P16id,runtype=physics,collision=pAu200,events!=0,runnumber[]16127021-16147025,filename~st_physics,year=2015,available=1,storage!=hpss,sanity=1" nFiles="&nfiles;" /> -->
+
+
+
+<stdout URL="file:&out;/$JOBID"/>
+<stderr URL="file:&err;/$JOBID"/>
+<!-- <stdout URL="file:./$JOBID.out"/> -->
+<!-- <stderr URL="file:./$JOBID.err"/> -->
+
+<output fromScratch="*.root" toURL="file:&root;/" />
+<output fromScratch="*.maxTrJe" toURL="file:&root;/" />
+
+</job>
+

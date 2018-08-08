@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<job name="PYTHIAsim" maxFilesPerProcess="1"  filesPerHour="1" simulateSubmission="false" fileListSyntax="paths">
+
+  <command>
+    starver SL17g
+    cd ${SUBMITTINGDIRECTORY} 
+    pwd
+    ls
+    
+    make_hgram.cc `basename $INPUTFILE0`; 
+    <!-- if (! -r $file) ln -s $INPUTFILE0 $file; -->
+    <!-- echo "$INPUTFILE0 => ${file}" -->
+    <!-- set bFile    = `basename $file .fzd` -->
+    <!-- set logFile  = ${bFile}B.log -->
+    <!-- set f=`find . -maxdepth 1 -type f -name "*${bFile}*.root"` -->
+    <!-- echo "in_file $INPUTFILE0" -->
+    <!-- set file = `basename $INPUTFILE0` -->
+    
+    <!-- root4star -b -q 'hijing.C(1000,"'${file}'",0)' -->
+
+    <!-- cp $SCRATCH/.error.log local_error_log -->
+    <!-- root4star -b -q 'hijing.C(45000,"'dummy_1.dat'",0,0)' -->
+        
+  </command>
+
+<Generator>
+    <Location>       ./input/Location       </Location>
+    <ScriptLocation> ./input/ScriptLocation </ScriptLocation>
+    <ListLocation>   ./input/ListLocation   </ListLocation>
+    <!-- <ListLocation>   &gen_list;   </ListLocation> -->
+</Generator>
+
+
+  <ResourceUsage>
+    <Times>
+      <MaxWallTime>100</MaxWallTime>
+    </Times>
+  </ResourceUsage>
+  <input  URL="file:/star/u/djs232/scratch/hijing/hgram/k_int/*" />
+  <stdout URL="file:/star/u/djs232/scratch/hijing/hgram/out/$JOBID.out"/>
+  <stderr URL="file:/star/u/djs232/scratch/hijing/hgram/err/$JOBID.err"/>
+  <!-- <stdout URL="file:/gpfs01/star/u/djs232/scratch/hijing/$JOBID.out"/> -->
+  <!-- <SandBox installer="ZIP"> -->
+  <!--   <Package> -->
+  <!--       <File>file:/star/u/djs232/scratch/hijing/hijing.C</File> -->
+  <!--   </Package> -->
+  <!-- </SandBox> -->
+
+</job>

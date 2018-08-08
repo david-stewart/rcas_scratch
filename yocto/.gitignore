@@ -1,0 +1,14 @@
+p*
+s*
+sched*
+temp_gccflags.c
+*session.xml
+.sl73_gcc485
+
+StRoot/YoDst/.consign*
+ana.c
+maker.c
+maker.h
+
+**/*.root
+**/*.maxTrJe

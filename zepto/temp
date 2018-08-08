@@ -1,0 +1,1 @@
+get_file_list.pl -keys path,filename -cond events!=0,runtype=physics,collision=pAu200,production=P16id,filename~picoDst,available=1,year=2015,filetype=daq_reco_PicoDst,runnumber[]16127021-16147025

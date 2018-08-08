@@ -1,0 +1,10 @@
+/star/data20/reco/production_pAu200_2015/ReversedFullField/P16id.SL18b/2015/127/16127047/st_physics_16127047_raw_4000021.picoDst.root
+/star/data20/reco/production_pAu200_2015/ReversedFullField/P16id.SL18b/2015/127/16127047/st_physics_16127047_raw_4500019.picoDst.root
+/star/data20/reco/production_pAu200_2015/ReversedFullField/P16id.SL18b/2015/127/16127047/st_physics_16127047_raw_5000004.picoDst.root
+/star/data20/reco/production_pAu200_2015/ReversedFullField/P16id.SL18b/2015/127/16127047/st_physics_16127047_raw_5000029.picoDst.root
+/star/data20/reco/production_pAu200_2015/ReversedFullField/P16id.SL18b/2015/127/16127047/st_physics_16127047_raw_5000031.picoDst.root
+/star/data20/reco/production_pAu200_2015/ReversedFullField/P16id.SL18b/2015/127/16127047/st_physics_16127047_raw_5000036.picoDst.root
+/star/data20/reco/production_pAu200_2015/ReversedFullField/P16id.SL18b/2015/127/16127047/st_physics_16127047_raw_5500012.picoDst.root
+/star/data20/reco/production_pAu200_2015/ReversedFullField/P16id.SL18b/2015/127/16127047/st_physics_16127047_raw_5500020.picoDst.root
+/star/data20/reco/production_pAu200_2015/ReversedFullField/P16id.SL18b/2015/127/16127047/st_physics_16127047_raw_5500022.picoDst.root
+/star/data20/reco/production_pAu200_2015/ReversedFullField/P16id.SL18b/2015/127/16127047/st_physics_16127047_raw_1000014.picoDst.root

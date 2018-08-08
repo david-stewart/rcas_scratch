@@ -1,0 +1,1138 @@
+      flag 10
+       HT0 0
+       HT1 1
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 16
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 10
+       HT0 0
+       HT1 1
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 16
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 16
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 16
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 10
+       HT0 0
+       HT1 1
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 16
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 10
+       HT0 0
+       HT1 1
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 48
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 1
+       JP2 0
+ true
+---------
+      flag 48
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 1
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 14
+       HT0 0
+       HT1 1
+       HT2 1
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 16
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 10
+       HT0 0
+       HT1 1
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 16
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 10
+       HT0 0
+       HT1 1
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 16
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 10
+       HT0 0
+       HT1 1
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 16
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 48
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 1
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 14
+       HT0 0
+       HT1 1
+       HT2 1
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 16
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 48
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 1
+       JP2 0
+ true
+---------
+      flag 16
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 48
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 1
+       JP2 0
+ true
+---------
+      flag 14
+       HT0 0
+       HT1 1
+       HT2 1
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 48
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 1
+       JP2 0
+ true
+---------
+      flag 48
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 1
+       JP2 0
+ true
+---------
+      flag 48
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 1
+       JP2 0
+ true
+---------
+      flag 10
+       HT0 0
+       HT1 1
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 48
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 1
+       JP2 0
+ true
+---------
+      flag 16
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 16
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 48
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 1
+       JP2 0
+ true
+---------
+      flag 48
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 1
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 10
+       HT0 0
+       HT1 1
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 16
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 8
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 10
+       HT0 0
+       HT1 1
+       HT2 0
+       HT3 1
+       JP0 0
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 16
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 0
+       JP2 0
+ true
+---------
+      flag 16
+       HT0 0
+       HT1 0
+       HT2 0
+       HT3 0
+       JP0 1
+       JP1 0
+       JP2 0

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<job maxFilesPerProcess="100" simulateSubmission="false" >
+	<command>
+		<!-- cons -->
+        root4star -l -q -b jetTrees.C\(-1,500206,\"$FILELIST\",\"/star/u/djs232/scratch/kate/root/206/$JOBID\",\"/direct/star+scratch/djs/bad_towers/BadTowers_Comb.08.02.list\",\"/direct/star+scratch/djs/bad_towers/bad_run_list.list\",0,0\)
+	</command>
+	<SandBox installer="ZIP">
+		<Package>
+            <File>file:./jetTrees.C</File>
+			<File>file:./StRoot</File>
+            <File>file:./.sl73_gcc485</File>
+		</Package>		
+	</SandBox>
+	
+	<Generator>
+        <Location>./input/206</Location>
+        <ScriptLocation>./input/206</ScriptLocation>
+        <ListLocation>./input/206</ListLocation>
+	</Generator>
+
+    <input URL="filelist:/star/u/djs232/scratch/list/limQA_st_physics.list" />
+
+    <stdout URL="file:./out/206/$JOBID" />	
+    <stderr URL="file:./err/206/$JOBID" />
+</job>

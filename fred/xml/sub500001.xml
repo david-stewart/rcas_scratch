@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<job maxFilesPerProcess="100" simulateSubmission="false" >
+	<command>
+		<!-- cons -->
+        root4star -l -q -b simpleETowQA.C\(-1,500001,\"$FILELIST\",\"/star/u/djs232/scratch/fred/root/500001/$JOBID\",\"norunlist\"\)
+	</command>
+	<SandBox installer="ZIP">
+		<Package>
+            <File>file:./simpleETowQA.C</File>
+			<File>file:./StRoot</File>
+            <File>file:./.sl73_gcc485</File>
+		</Package>		
+	</SandBox>
+	
+	<Generator>
+        <Location>./input/500001</Location>
+        <ScriptLocation>./input/500001</ScriptLocation>
+        <ListLocation>./input/500001</ListLocation>
+	</Generator>
+
+    <input URL="filelist:/star/u/djs232/scratch/list/limQA_st_ssdmb.list" />
+
+    <stdout URL="file:./out/500001/$JOBID" />	
+    <stderr URL="file:./err/500001/$JOBID" />
+</job>

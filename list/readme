@@ -1,0 +1,11 @@
+See https://www.icloud.com/numbers/0DdzjsAtZmchfTsGc4lZ63jpg#To_Do, under Dave Daily
+
+cmd:
+list-> get_file_list.pl -keys path,filename -cond events!=0,production=P17id,filename~MuDst,filename~st_ssdmb,filename~16128022,collision=pAu200,runnumber[]16127021-16147025,year=2015,available=1,storage!=hpss,sanity=1 -limit 1000
+
+
+MuDst file:
+/home/starlib/home/starreco/reco/production_pAu200_2015/ReversedFullField/P17id/2015/128/16128022/st_ssdmb_16128022_raw_1000025.MuDst.root
+
+PicoDst file
+/star/data25/reco/production_pAu200_2015/ReversedFullField/P17id.SL18b/2015/128/16128022/st_ssdmb_16128022_raw_1000025.picoDst.root

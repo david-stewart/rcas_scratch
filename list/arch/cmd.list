@@ -1,0 +1,24 @@
+get_file_list.pl -keys path,filename -cond filetype=daq_reco_PicoDst,events!=0,production=p17id,year=2015,available=1,storage!=hpss,sanity=1,collision=pAu200,filename~st_ssdmb -limit 0 -delim / > ssdmb_full.list
+a get_file_list.pl -keys path,filename -cond filetype=daq_reco_PicoDst,events!=0,production=p16id,year=2015,available=1,storage!=hpss,sanity=1,collision=pAu200,filename~st_physics -limit 0 -delim / > st_physics.list
+
+
+
+cmd
+
+get_file_list.pl -keys path,filename -cond filetype=daq_reco_PicoDst,events!=0,production=p17id,year=2015,available=1,storage!=hpss,sanity=1,collision=pAu200,filename~st_ssdmb -limit 10 -delim /
+get_file_list.pl -keys path,filename -cond filetype=daq_reco_PicoDst,events!=0,production=p17id,year=2015,available=1,storage!=hpss,sanity=1,collision=pAu200,filename~st_ssdmb -limit 0 -delim / > ssdmb_full.list
+
+get_file_list.pl -keys path,filename,events -cond filetype=daq_reco_PicoDst,events!=0,production=p17id,year=2015,available=1,storage!=hpss,sanity=1,collision=pAu200,filename~st_ssdmb -limit 0 -delim / > ssdmb_full.list
+
+
+/star/data19/reco/production_pAu200_2015/ReversedFullField/P16id.SL18b/2015/126/16126007/st_physics_16126007_raw_1000016.picoDst.root
+/star/data19/reco/production_pAu200_2015/ReversedFullField/P16id.SL18b/2015/126/16126007/st_physics_16126007_raw_1000017.picoDst.root
+/star/data19/reco/production_pAu200_2015/ReversedFullField/P16id.SL18b/2015/126/16126007/st_physics_16126007_raw_1000018.picoDst.root
+/star/data19/reco/production_pAu200_2015/ReversedFullField/P16id.SL18b/2015/126/16126007/st_physics_16126007_raw_1500001.picoDst.root
+/star/data19/reco/production_pAu200_2015/ReversedFullField/P16id.SL18b/2015/126/16126007/st_physics_16126007_raw_1500013.picoDst.root
+/star/data19/reco/production_pAu200_2015/ReversedFullField/P16id.SL18b/2015/126/16126007/st_physics_16126007_raw_2000002.picoDst.root
+/star/data19/reco/production_pAu200_2015/ReversedFullField/P16id.SL18b/2015/126/16126007/st_physics_16126007_raw_2000013.picoDst.root
+/star/data19/reco/production_pAu200_2015/ReversedFullField/P16id.SL18b/2015/126/16126007/st_physics_16126007_raw_2000015.picoDst.root
+/star/data19/reco/production_pAu200_2015/ReversedFullField/P16id.SL18b/2015/126/16126007/st_physics_16126007_raw_2000016.picoDst.root
+/star/data19/reco/production_pAu200_2015/ReversedFullField/P16id.SL18b/2015/126/16126007/st_physics_16126007_raw_2000019.picoDst.root
+/star/data25/reco/production_pAu200_2015/ReversedFullField/P17id.SL18b/2015/124/16124017/st_ssdmb_adc_16124017_raw_0000004.picoDst.root
